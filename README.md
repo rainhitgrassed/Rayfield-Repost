@@ -23,7 +23,7 @@ local Rayfield = loadstring(game:HttpGet('https://raw.githubusercontent.com/vFis
 ```
 ## Create Tab
 ```lua
-local MainTab = Window:CreateTab ("Home", nil) -- Title, Image
+local MainTab = Window:CreateTab ("Home", 4483362458) -- Title, Image
 ```
 
 ## Create Section
