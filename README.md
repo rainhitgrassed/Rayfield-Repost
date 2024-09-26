@@ -2,7 +2,7 @@
 ```lua
 local Rayfield = loadstring(game:HttpGet('https://raw.githubusercontent.com/vFishyTurtle/wiihub/main/rayfield'))()local Window = Rayfield:CreateWindow({
    Name = "Shadow.cc Free",
-   LoadingTitle = "You Loaded Shadow,cc Free",
+   LoadingTitle = "You Loaded Shadow.cc Free",
    LoadingSubtitle = "by NectoVerse Development on discord.",
    ConfigurationSaving = {
       Enabled = true,
